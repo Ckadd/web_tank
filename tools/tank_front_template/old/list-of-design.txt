@@ -1,0 +1,30 @@
+ftp.19102493-20-20190207092130.webstarterz.com
+Username: ftp-tank@tank.apiinno.com
+Password: ftp-tank
+port: 21
+
+
+
+
+###### ครั้งที่ 1 ######
+
+1.1- หน้าโฮมเพจ - index.html
+6.1- หน้าสมัครสมาชิก - pages-signup.html
+7.1- รูปแบบยืนยันสมัครสมาชิก+ผลยืนยัน - pages-confirmation.html / email Verification
+6.2- หน้ารีเซตรหัสผ่าน - pages-forgot-password.html / email-password-reset / pages-confirm-password.html
+6.3- หน้าโปรไฟล์สมาชิก - profile-customer-profile.html
+
+###### ครั้งที่ 2 ######
+
+7.2- รูปแบบรีเซตรหัสผ่าน - ซ้ำ 6.2
+3.1- ยี่ห้อสินค้า - brand.html
+4.1- หน้ารายการ - สินค้า -page-shop.html
+4.2- หน้ารายละเอียด - สินค้า - single-product_1.html / single-product_2.html
+4.3- หน้าแสดงรายการ ค้นหา - Shop-search-result.html
+
+
+###### ครั้งที่ 3 ######
+
+8.1 - หน้าสรุปรายการสินค้าที่สั่งซื้อ - my-cart.html
+8.2 - ที่อยู่การจัดส่ง - checkout.html
+8.3 - หน้าชําระเงิน - checkout-payment.html
